@@ -1,5 +1,5 @@
 {
   "latestVersionCode":20190522,
-  "latestVersionUrl":"https://raw.githubusercontent.com/folk113/mqtt_release/master/android/phubber-mqtt-android-v0.10.apk",
-  "updateContent":"初始版本"
+  "latestVersionUrl":"https://raw.githubusercontent.com/folk113/mqtt_release/master/android/phubber-mqtt-android-v0.11.apk",
+  "updateContent":"修复无效连接显示连接成功的BUG"
 }
